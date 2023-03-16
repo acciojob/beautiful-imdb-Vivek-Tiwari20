@@ -1,16 +1,19 @@
 
 /* Your CSS Code here. */
-
 .moviePic{
-  height: 420px;
-  width: auto;
-  opacity: 2;
+	height:400px;
+	width:auto;
+	opacity:1;
 }
 .movieDetail{
-  position: fixed;
-  top: 500px;
-  width: auto;
-  text-align: center;
-  font-size: 18px;
-
+	position:center;
+	top:800px;
+	width:10px;
+	test-align:center;
+	font-size:10px;
 }
+
+
+
+
+
