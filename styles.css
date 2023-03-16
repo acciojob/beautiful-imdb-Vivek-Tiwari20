@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 
 .moviePic{
-  height: 400px;
+  height: 420px;
   width: auto;
-  opacity: 1;
+  opacity: 2;
 }
 .movieDetail{
   position: fixed;
