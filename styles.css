@@ -6,11 +6,11 @@
 	opacity:1;
 }
 .movieDetail{
-	position:center;
+	position:fixed;
 	top:800px;
-	width:10px;
+	width:auto;
 	test-align:center;
-	font-size:10px;
+	font-size:15px;
 }
 
 
